@@ -92,7 +92,7 @@ Key contributions include:
 
 ### Architecture & Database
 
-* Created system flowcharts (quiz flow and admin logic)
+* Created system flowcharts (quiz flow)
 * Participated in database structure updates
 
 ### Deployment & Configuration
@@ -130,7 +130,9 @@ The project is not publicly deployed and is available only on the school server.
 
 ## Screenshots
 
-Screenshots will be added later.
+### Login page
+![Index page](screenshots/index-page.jpg)
+
 
 ---
 
