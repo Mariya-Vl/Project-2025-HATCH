@@ -103,6 +103,11 @@ Key contributions include:
 
 ---
 
+## Database design
+![Database structure](screenshots/db.jpg)
+
+---
+
 ## System Architecture
 
 The application follows a classic full-stack architecture:
@@ -130,9 +135,41 @@ The project is not publicly deployed and is available only on the school server.
 
 ## Screenshots
 
-### Login page
+### Index page
 ![Index page](screenshots/index-page.jpg)
 
+### Select programming language page
+![Select programming language](screenshots/select-lang.jpg)
+
+### Select topic page
+![Select topic](screenshots/select-topic.jpg)
+
+### Quiz page
+![Quiz](screenshots/quiz.jpg)
+
+### Quiz page: show answer
+![Quiz: show answer](screenshots/quiz-show-answer.jpg)
+
+### Quiz page: check answer
+![Quiz: check answer](screenshots/check-answer.jpg)
+
+### Quiz page: no questions
+![Quiz: no questions](screenshots/no-questions.jpg)
+
+### Admin login page
+![Admin entry](screenshots/admin-login.jpg)
+
+### Admin page: select action
+![Admin page: select action](screenshots/admin-select-action.jpg)
+
+### Admin page: add a new programming language
+![Admin page: add a new programming language](screenshots/admin-add-language.jpg)
+
+### Admin page: preview before storing the data in the DB
+![Admin page: preview](screenshots/preview-add-lang.jpg)
+
+### Admin page: edit or delete record
+![Admin page: edit or delete action](screenshots/edit-or-delete.jpg)
 
 ---
 
