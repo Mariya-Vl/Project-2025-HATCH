@@ -49,7 +49,7 @@ Database:
 Tools & Collaboration:
 
 * GitHub
-* Trello
+* Trello (https://trello.com/b/5Hrl2Xiz/hatch)
 * Figma
 * Draw.io
 * VS Code
